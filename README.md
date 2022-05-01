@@ -6,5 +6,7 @@ The repository is organized into two folders: Scripts and Figures. All of the sc
 
 For reference, below is a list of the figures from the paper and the scripts that were used to generate each figure.
 
-
+- Figure 3.1: rbifurcation.py
+- Figure 3.2: rdensityplots.py
+- Figure 3.3: rmodalcomposition.py
 
